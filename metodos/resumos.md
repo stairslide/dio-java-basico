@@ -1,0 +1,1 @@
+## Resumos dos métodos
